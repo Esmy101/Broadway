@@ -6,4 +6,6 @@ In this project, you will use properties such as display and position to improve
 
 The site has some style rules to begin with. You will improve the layout and positioning of the navigation menu at the top of the page and the three supporting sections (Design, Develop, Deploy) below the image.
 
+## Control the positioning of elements
+
 ![image](./image/Display%20and%20Positioning.PNG)
