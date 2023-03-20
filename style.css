@@ -7,13 +7,13 @@ header {
     background-color: #333333;
     position: fixed;
     width: 100%;
-    z-index: 5;
+    z-index: 2;
 }
   
 nav {
     margin: 0;
     padding: 20px 0;
-    top: 80px;
+   
 }
   
 nav li {
@@ -28,6 +28,7 @@ nav li {
 main {
     text-align: center;
     position: relative;
+    top: 80px;
 }
   
 main h1 {
@@ -45,6 +46,7 @@ footer {
     background-color: #333;
     color: #fff;
     padding: 30px 0;
+    
 }
   
 footer p {
@@ -100,6 +102,9 @@ footer p {
 .supporting .col {
     font-family: 'Raleway', sans-serif;
     text-align: center;
+    display: inline-block;
+    width: 200px;
+    height: 200px;
 }
   
 .supporting img {
